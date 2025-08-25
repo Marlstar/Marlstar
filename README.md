@@ -8,11 +8,20 @@ I love climbing 🧗 and coding 💻
 <img src="https://raw.githubusercontent.com/Marlstar/Marlstar/refs/heads/main/rust_enthusiast_code_snapshot.png" width=60%>
 </div>
 
+
 <!-- Stats -->
-<div align=center><img
+<div align=center>
+<img
     align=center
-    src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,434343"
-/></div>
+    src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,00001A"
+    width=45%
+/>
+<br><br>
+<img align=center
+    src="https://greptile-stats.vercel.app/api/widget/Marlstar/stats"
+    width=60%
+/>
+</div>
 
 <!-- Development -->
 <div align=center>
