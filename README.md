@@ -13,7 +13,7 @@ I love climbing 🧗 and coding 💻
 <div align=center>
 <img
     align=center
-    src="https://github-readme-stats.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,00001A"
+    src="https://github-readme-stats-h7ux.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,00001A"
     width=45%
 />
 <br><br>
