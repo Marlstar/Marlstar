@@ -46,7 +46,7 @@ I love climbing 🧗 and coding 💻
         <img src="https://skillicons.dev/icons?i=neovim">
     </a>
     <img src="https://skillicons.dev/icons?i=vscode">
-    <img src="https://skillicons.dev/icons?i=idea">
+<!--     <img src="https://skillicons.dev/icons?i=idea"> -->
     <img src="https://skillicons.dev/icons?i=androidstudio">
 </div>
 <div align=center> <!-- Github/Gitlab -->
