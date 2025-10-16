@@ -5,7 +5,8 @@ I love climbing 🧗 and coding 💻
 </div>
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/Marlstar/Marlstar/refs/heads/main/rust_enthusiast_code_snapshot.png" width=60%>
+<!-- <img src="https://raw.githubusercontent.com/Marlstar/Marlstar/refs/heads/main/rust_enthusiast_code_snapshot.png" width=60%> -->
+    <img src="https://raw.githubusercontent.com/Marlstar/Marlstar/refs/heads/main/readme_hello_github.png" width=60%>
 </div>
 
 
