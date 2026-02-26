@@ -17,11 +17,11 @@ I love climbing 🧗 and coding 💻
     src="https://github-readme-stats-h7ux.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,00001A"
     width=45%
 />
-<br><br>
+<!-- <br><br>
 <img align=center
     src="https://greptile-stats.vercel.app/api/widget/Marlstar/stats"
     width=60%
-/>
+/> -->
 </div>
 
 <!-- Development -->
