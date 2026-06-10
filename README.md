@@ -5,8 +5,8 @@ I love climbing 🧗 and coding 💻
 </div>
 
 <div align=center>
-<!-- <img src="https://raw.githubusercontent.com/Marlstar/Marlstar/refs/heads/main/rust_enthusiast_code_snapshot.png" width=60%> -->
-    <img src="https://raw.githubusercontent.com/Marlstar/Marlstar/refs/heads/main/readme_hello_github.png" width=60%>
+<!-- <img src="https://raw.githubusercontent.com/skultix/skultix/refs/heads/main/rust_enthusiast_code_snapshot.png" width=60%> -->
+    <img src="/github_skultix.png" width=60%>
 </div>
 
 
@@ -14,14 +14,9 @@ I love climbing 🧗 and coding 💻
 <div align=center>
 <img
     align=center
-    src="https://github-readme-stats-h7ux.vercel.app/api?username=marlstar&show_icons=true&theme=tokyonight&bg_color=30,000000,00001A"
+    src="https://github-readme-stats-h7ux.vercel.app/api?username=skultix&show_icons=true&theme=tokyonight&bg_color=30,000000,00001A"
     width=45%
 />
-<!-- <br><br>
-<img align=center
-    src="https://greptile-stats.vercel.app/api/widget/Marlstar/stats"
-    width=60%
-/> -->
 </div>
 
 <!-- Development -->
@@ -29,21 +24,21 @@ I love climbing 🧗 and coding 💻
     <h2>Development</h2>
 </div>
 <div align=center> <!-- Languages -->
-    <a href="https://github.com/Marlstar?tab=repositories&q=&type=&language=rust">
+    <a href="https://github.com/skultix?tab=repositories&q=&type=&language=rust">
         <img src="https://skillicons.dev/icons?i=rust">
     </a>
-    <a href="https://github.com/Marlstar?tab=repositories&q=&type=&language=python">
+    <a href="https://github.com/skultix?tab=repositories&q=&type=&language=python">
         <img src="https://skillicons.dev/icons?i=python">
     </a>
     <a href="https://github.com/IronLionsFTC/FTC24089">
         <img src="https://skillicons.dev/icons?i=java">
     </a>
-    <a href="https://github.com/Marlstar?tab=repositories&q=&type=&language=lua">
+    <a href="https://github.com/skultix?tab=repositories&q=&type=&language=lua">
         <img src="https://skillicons.dev/icons?i=lua">
     </a>
 </div>
 <div align=center> <!-- IDEs -->
-    <a href="https://github.com/Marlstar/nvim">
+    <a href="https://github.com/skultix/nvim">
         <img src="https://skillicons.dev/icons?i=neovim">
     </a>
     <img src="https://skillicons.dev/icons?i=vscode">
@@ -51,10 +46,10 @@ I love climbing 🧗 and coding 💻
     <img src="https://skillicons.dev/icons?i=androidstudio">
 </div>
 <div align=center> <!-- Github/Gitlab -->
-    <a href="https://github.com/marlstar">
+    <a href="https://github.com/skultix">
         <img src="https://skillicons.dev/icons?i=github">
     </a>
-    <a href="https://gitlab.com/marlstar">
+    <a href="https://gitlab.com/skultix">
         <img src="https://skillicons.dev/icons?i=gitlab">
     </a>
 </div>
@@ -73,16 +68,9 @@ I love climbing 🧗 and coding 💻
     <a href="https://mastodon.social/@themarlstar">
         <img src="https://skillicons.dev/icons?i=mastodon">
     </a>
-    <a href="https://x.com/themarlstar">
+    <a href="https://x.com/skultix">
         <img src="https://skillicons.dev/icons?i=twitter">
     </a>
 </div>
-
-<!--- >
-<p align=center><img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=marlstar&theme=onedark&title=Commits,Experience,Repositories&row=1&column=3"
-/></p>
-<-->
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/></p>
