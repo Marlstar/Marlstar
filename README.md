@@ -5,18 +5,7 @@ I love climbing 🧗 and coding 💻
 </div>
 
 <div align=center>
-<!-- <img src="https://raw.githubusercontent.com/skultix/skultix/refs/heads/main/rust_enthusiast_code_snapshot.png" width=60%> -->
     <img src="/github_skultix.png" width=60%>
-</div>
-
-
-<!-- Stats -->
-<div align=center>
-<img
-    align=center
-    src="https://github-readme-stats-h7ux.vercel.app/api?username=skultix&show_icons=true&theme=tokyonight&bg_color=30,000000,00001A"
-    width=45%
-/>
 </div>
 
 <!-- Development -->
